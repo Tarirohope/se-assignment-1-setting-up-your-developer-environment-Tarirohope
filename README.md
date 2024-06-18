@@ -52,3 +52,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+![assignment 2024-06-18 132537](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Tarirohope/assets/118693318/7bc4857b-5e5c-4c42-9c66-ec8aab5e8234)
