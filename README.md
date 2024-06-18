@@ -155,4 +155,4 @@ To install Flutter on my Windows 64-bit PC:
 3. I added the Flutter bin directory to the system's PATH environment variable.
 4. I ran flutter doctor in Command Prompt to install dependencies.
 5. I verified the installation by running flutter --version.
-
+![assignment 2024-06-18 132537](https://github.com/Tarirohope/se-assignment-1-setting-up-your-developer-environment-Tarirohope/assets/118693318/b5cf9151-49e8-4b94-927f-51cf4ad59073)
